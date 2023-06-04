@@ -1,0 +1,60 @@
+button.link-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  display: inline;
+  /* margin: 0;
+  padding: 0; */
+  text-decoration: none;
+}
+
+.link-button:hover,
+.link-button:focus {
+  text-decoration: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.backgroundcolor {
+  background-color: #739fc5;
+}
+
+.marginb-15 {
+  margin-bottom: 15px;
+}
+
+.margint-15 {
+  margin-top: 15px;
+}
+
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 160px;
+}
+
+.pac-container {
+  z-index: 10000 !important;
+}
+
+.has-error {
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: red;
+}
+
+.tab {
+  display: inline-block;
+  margin-left: 6em;
+}

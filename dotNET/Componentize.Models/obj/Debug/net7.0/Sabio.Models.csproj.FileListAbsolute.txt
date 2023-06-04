@@ -1,0 +1,12 @@
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\bin\Debug\net7.0\Sabio.Models.deps.json
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\bin\Debug\net7.0\Sabio.Models.dll
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\bin\Debug\net7.0\Sabio.Models.pdb
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\Sabio.Models.csproj.AssemblyReference.cache
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\Sabio.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\Sabio.Models.AssemblyInfoInputs.cache
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\Sabio.Models.AssemblyInfo.cs
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\Sabio.Models.csproj.CoreCompileInputs.cache
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\Sabio.Models.dll
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\refint\Sabio.Models.dll
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\Sabio.Models.pdb
+C:\SF.Code\Starter.connecting-to-db-dotnet\dotnet\Sabio.Models\obj\Debug\net7.0\ref\Sabio.Models.dll

@@ -145,7 +145,7 @@ function Events() {
                     <div className="row no-gutters">
                         <div className="col-md-6 mt-4" style={{ paddingLeft: "25px", paddingRight: "0px", paddingBottom: "15px", }}>
                             <LoadScript
-                                googleMapsApiKey="AIzaSyDYl5IIXOwXlcYh_x9RnT_dQoNUKWOL96U"
+                                googleMapsApiKey=""
                             >
                                 <GoogleMap
                                     mapContainerStyle={containerStyle}

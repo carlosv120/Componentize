@@ -520,7 +520,7 @@ function Events() {
                                         <h5>Address</h5>
                                     </label>
                                     <LoadScript
-                                        googleMapsApiKey="AIzaSyDYl5IIXOwXlcYh_x9RnT_dQoNUKWOL96U"
+                                        googleMapsApiKey=""
                                         libraries={["places"]}
                                         className='pac-container'
                                     >
